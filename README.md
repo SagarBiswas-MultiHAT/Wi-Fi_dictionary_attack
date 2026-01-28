@@ -33,11 +33,11 @@ This Python script is designed to perform a dictionary attack on a Wi-Fi network
        target_ssid = "Sagar_Biswas_5G"
 4. Run the script:
    ```bash
-   python WiFi-Dictionary-Attack_v1.2.py
+   python WiFi-Dictionary-Attack.py
    ```
 OR, 
    ```bash
-   python WiFi-Dictionary-Attack_v1.2.py --ssid Sagar_Biswas_2.4G
+   python WiFi-Dictionary-Attack.py --ssid Sagar_Biswas_2.4G
    ```
 
 ## Notes
