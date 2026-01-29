@@ -6,6 +6,8 @@
 
 ![Failed Attack](https://imgur.com/joMxpxN.png)
 
+---
+
 This Python script is designed to perform a dictionary attack on a Wi-Fi network using the `pywifi` library. It scans available Wi-Fi networks, targets a specific SSID, and attempts to connect using passwords from a given file. Ideal for educational purposes and security testing.
 
 ## Features
